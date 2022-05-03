@@ -6,7 +6,7 @@ if(rain) {
 }
 
 if(cold) {
-  console.log("Take Scarf");
+  console.log("Take Scarf!");
 }
 
 // ***** if we wanted to do one thing in one case and another in all other cases?
